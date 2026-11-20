@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou o Vitor Barbosa 👋
+# Olá, eu sou o Vitor Barbosa!
 
 ### **Engenheiro de Software Full-Stack & IA | RAG, Visão Computacional, System Design & Produto**
 📍 Brasília, DF — Brasil
@@ -15,7 +15,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Engenheiro por formação (**Engenharia Civil — ICF**) e arquiteto/desenvolvedor de software por vocação, atuo na interseção entre **Engenharia de Software Full-Stack**, **Inteligência Artificial Aplicada**, **Engenharia de Dados/BI** e **Concepção de Produto**.
+Engenheiro por formação (**Engenharia Civil — ICF**) e desenvolvedor de software por vocação, atuo na interseção entre **Engenharia de Software Full-Stack**, **Inteligência Artificial Aplicada**, **Engenharia de Dados/BI** e **Concepção de Produto**.
 
 Atualmente na **Search Tecnologia**, lidero tecnicamente a **modernização de sistemas legados** e o **design e criação de produtos completamente novos ponta a ponta** — desde o entendimento de negócio e definição de produto até a arquitetura, implementação de múltiplos algoritmos de IA e deploy em produção.
 
